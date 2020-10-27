@@ -1,0 +1,117 @@
+﻿.see{
+    width:30px;
+    height:30px;
+}
+.commentbox {
+    border:1px solid black;
+    width:100%;
+    padding:15px;
+    margin-bottom:4px;
+    margin-left:250px;
+}
+.formDesign {
+    background-color:#d8d4d4;
+    padding:10px;
+    width:600px;
+    border:1px solid gray;
+    margin-bottom:10px;
+}
+
+.pr{
+    position:absolute;
+    top:570px;
+    left:80px;
+}
+.ali{
+    text-align:center;
+}
+.cpp{
+    background-color:#ff006e;
+}
+.cpp:hover{
+
+    cursor:pointer;
+    background-color:#ff006e;
+}
+
+.fon{
+    font-family:'B Yekan';
+}
+.col{
+    color:#3230e2;
+}
+.cole{
+    color:#ffffff;
+}
+.imm{
+    width:200px;
+    height:200px;
+}
+.siz{
+    font-size:25px;
+}
+.top{
+    top:8px;
+    opacity:5;
+}
+.col2{
+    
+    background-color:#fff88d;
+    color:#4c4dc5;
+    font-family:'B Yekan';
+    border-radius:5px;
+    cursor:pointer;
+}
+.col2:hover{
+    background-color:#f12020;
+    color:white;
+}
+.col3{
+    background-color:#fff88d;
+    color:#4c4dc5;
+    font-family:'B Yekan';
+    border-radius:5px;
+    cursor:pointer;
+}
+.col3:hover{
+    background-color:#331fe9;
+    color:white;
+}
+.cen{
+    text-align:center;
+}
+.celle{
+    color:blue;
+}
+.wit{
+    color:blue;
+    cursor:pointer;
+}
+.wit:hover{
+    color:white;
+}
+.res{
+    text-align:center;
+}
+.bbt{
+    cursor:pointer;position:absolute;top:217px;left:530px;
+    border-radius:5px;
+}
+.bbt:hover{
+    background-color:#4c4dc5;
+    color:white;
+    
+}
+.rdx{
+    border-radius:5px;
+}
+
+.siz{
+    font-size:small;
+}
+.cowit{
+    color:white;
+}
+.w1{
+    width:100%;
+}
